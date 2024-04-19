@@ -49,5 +49,32 @@
 }
 
 .boton {
-    background-color: ;
+    background-color: red;
 }
+
+.imagen-gato {
+    margin: 2rem 2rem 2rem 2rem;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(38, 0, 255);
+    border: 2px solid rgb(0, 60, 255);
+}
+
+.imagen-gato-centrado {
+    margin: 2rem 2rem 2rem 2rem;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(38, 0, 255);
+    border: 2px solid rgb(0, 60, 255);
+}
+
+.texto{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .imagen-float {
+    float: left;
+  }
