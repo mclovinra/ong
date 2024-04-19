@@ -1,14 +1,43 @@
-.margin-ti{
-    margin-top: 50rem;
+.margin {
+
+    margin-top: 1rem;
 }
 
-.margin-lista {
-    text-align: 100;
+.centrar {
+
+    text-align: center;
 }
 
-.titulo {
-    background-color: rosybrown;
-    color: black;
-    border-radius: 5px;
+.fondo {
 
+    background-color: rgb(245, 231, 214);
+}
+
+.titulo{
+    
+    text-align: center;
+    margin-top: 1rem;
+    color: red;
+}
+
+.parrafo{
+
+    margin-top: 2rem;
+    color: rgb(36, 31, 31);
+}
+
+.imagen {
+
+    margin: 2rem 2rem 2rem 2rem;;
+    width: 200px;
+    height: 150px;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(2, 253, 2);
+    border: 2px solid rgb(243, 82, 82);
+    
+}
+
+.izquierda {
+
+    padding-left: 1rem%;
 }
