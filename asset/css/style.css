@@ -41,3 +41,26 @@
 
     padding-left: 1rem%;
 }
+
+.content{
+    display: flex;
+}
+
+.left .rigth{
+    display: inline-block;
+}
+
+.content-img {
+    width: 100%;
+    height: auto;
+    border-radius: .5rem;
+  }
+
+.border-black{
+    border-color: black;
+    border-style: solid;
+}
+
+.margin-row{
+    margin-top: 2rem;
+}
