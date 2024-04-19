@@ -8,7 +8,7 @@
 
 .fondo {
     background-image: url(../img/patitas.jpg);
-    background-repeat: repeat;
+    background-size: cover;
 }
 
 .fondo-blanco{
@@ -16,8 +16,6 @@
     background-color: white;
     border: 2px solid rgb(160, 32, 32);
     border-radius: 25px;
-
-
 }
 
 
