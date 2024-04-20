@@ -52,3 +52,24 @@
 .boton {
     background-color: lightseagreen;
 }
+
+.cont-central{
+    display: flex;
+    flex-direction: row;
+}
+
+.div-izq{
+    width: 20%;
+    background-color: grey;
+    color: whitesmoke;
+}
+
+.div-der{
+    width: 80;
+    display: flex; 
+    flex-direction: column;
+}
+
+.div-int{
+    height: 25%;
+}
