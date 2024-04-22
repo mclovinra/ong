@@ -2,6 +2,10 @@
     margin-top: 1rem;
 }
 
+.color {
+    color: red;
+}
+
 .centrar {
     text-align: center;
 }
@@ -27,7 +31,7 @@
 .titulo{   
     text-align: center;
     margin-top: 1rem;
-    color: black;
+    color: rgb(255, 0, 0);
 }
 
 .parrafo{
@@ -46,10 +50,6 @@
 
 .izquierda {
     padding-left: 1rem;
-}
-
-.boton {
-    background-color: red;
 }
 
 .imagen-gato {
